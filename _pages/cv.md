@@ -11,21 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Molecular & Cellular Biology (Honors) and Public Health Studies, Johns Hopkins University, 2019
+* DPhil Clinical Medicine (Virology), University of Oxford, August 2022
 
 Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -42,18 +35,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Professional Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Ad-hoc Peer Reviewer
+   * Plos Computational Biology (1)
+   * Disaster Medicine and Public Health Preparedness
+   * Scientific Reports (1)
+   * mSphere
+   * Microbiology Spectrum
+   * Microbial Biotechnology (1)
+   * International Journal of General Medicine (1)
+* Mentoring and Committee Service
+  * 2020-present: Member, Johns Hopkins University UK Fellowships Campus Committee
+    * Provide resume and application review and serve on mock interview panels
+  * 2021-present: Mock interviewer, Johns Hopkins University Pre-Professional Advising Office
+    * Provide 1:1 mock interviews to medical school applicants
+  * 2023-2024: Member, JHU/APL Global Health Security Research Area Committee
+    * Review applications for internal research funding
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Individual
+   * 
+* Team
